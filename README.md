@@ -2,4 +2,4 @@
 
 
 
-[Learn how to build a spring project!](https://github.com/miguemesen/spring-boot-tutorial/wiki)
+[Learn how to build a spring project!](https://github.com/miguemesen/spring-boot-tutorial/wiki/B.-Create-project)
